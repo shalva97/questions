@@ -17,7 +17,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - Can we have fragment without view? what is it's purpose?
 - Why activity is Android component and fragment is not?
 - What is the pendingIntent?
-- How long a service will be running? how can we stop it?
+- How long a service will be running? describe it's Service Lifecycle. how can we stop it?
 - How to communicate between Activity and Service?
 - what is the difference between the foreground and background service? on which thread they run by default?
 - name 4 main android components
