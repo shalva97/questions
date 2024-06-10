@@ -2,14 +2,14 @@
 This is just a list of a lot of questions. The main purpose is to go thru them, research ones that you forgot or don't know and be ready for interview. Sometimes there will be a list of words instead of full questions, think of them like "what is/are ..." or "when ... should be used". 
 
 # Contents
-Android
-XML views
-Jetpack Compose
-Kotlin
-Kotlin coroutines
-Java
-Java concurency
-Architecture
+- [Android](#Android)
+- [XML views](#XML-views)
+- [Jetpack Compose](#Jetpack-Compose)
+- [Kotlin](#Kotlin)
+- [Kotlin coroutines](#Kotlin-coroutines)
+- [Java](#Java)
+- [Java concurency](#Java-concurency)
+- [Architecture](#Architecture)
 - [Soft-skills](#Soft-skills)
 ### Android
 - what are Android components?
