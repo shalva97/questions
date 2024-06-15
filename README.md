@@ -26,7 +26,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - what are Intents in android?
 - Baseline Profiles
 ### XML views
-- TODO
+- How would you optimise RecyclerView?
 ### Jetpack Compose
 - Modifiers, custom Modifiers
 - states, derivedstateOf
@@ -54,11 +54,18 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - Kotlin vs Java
 - Your favourite Kotlin feature
 ### Kotlin coroutines
+- structured concurency
+- StateFlow vs SharedFlow
+- what are Dispatachers?
+- Scopes
+- Channel vs Flow
+
 ### JVM
 - can you manually trigger GC? Have you tried it?
 - what the memory leak is and some often cases when when we see them?
 - Any risk to in using Java reflection?
 - Explain reflection
+- what data structure have you heard of(not specific to JVM)?
 ### Java
 - what is the difference between HashMap and TreeMap?
 - whats the contract between hashcode and equals?
@@ -85,6 +92,10 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - subscribeOn vs observeOn. Can they be used multiple times?
 - SwitchMap vs FlatMap in Rx
 - Observable vs Flowable rxJava2
+### Testing
+- FIRST principle
+- AAA pattern
+- what are Stubs, mocks, Dummies, spies, Fakes
 ### Architecture
 - how does MVP work?
 - MVP vs MVVM vs MVI
@@ -93,6 +104,9 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - what is SOLID?
 - Dependency Inversion?
 - Where would you put logic to decide if we show local data or remote data?
+- Anemic Domain Model
+- tell, dont ask
+- law of demeteer(LoD)
 ### Soft skills
 - goal of sprint?
 - how many story points to take in a sprint?
