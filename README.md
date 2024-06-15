@@ -111,6 +111,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - Anemic Domain Model
 - tell, dont ask
 - law of demeteer(LoD)
+- how can you update data in a Fragment from another Fragment
 ### Soft skills
 - goal of sprint?
 - how many story points to take in a sprint?
