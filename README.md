@@ -9,6 +9,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - [Kotlin coroutines](#Kotlin-coroutines)
 - [Java](#Java)
 - [Java concurency](#Java-concurency)
+- [Testing](#testing)
 - [Architecture](#Architecture)
 - [Soft-skills](#Soft-skills)
 ### Android
@@ -25,6 +26,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - when it is safe to call Activity inside Fragment?
 - what are Intents in android?
 - Baseline Profiles
+- Bundle limitations
 ### XML views
 - How would you optimise RecyclerView?
 ### Jetpack Compose
@@ -53,6 +55,8 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - how Kotlin and Java interop work?
 - Kotlin vs Java
 - Your favourite Kotlin feature
+- Sequence vs Iterable
+- 
 ### Kotlin coroutines
 - structured concurency
 - StateFlow vs SharedFlow
@@ -84,7 +88,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - how we can use Set in multithreading environment? Things to do If I need to work with some collection in multithreading environment?
 - what are AtomicBoolean, AtomicOtherThings?
 - Volatile keyword in Java?
-- deadlock vs race condition
+- deadlock vs race condition. How to prevent them?
 - How JVM understands that another thread is doing work inside @Synchronised block?
 - What is the synchronised keyword in Java?
 ### RxJava
@@ -102,7 +106,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - Let's assume you want to integrate some SharedPrefs component in this clean architecture and of course, being able to initialise the sharePrefs, you need an app context. Where would this sharedprefs component be in your clean architecture application? From what layer and to what layer would it provide data?
 - The two most important principles of the clean architecture?
 - what is SOLID?
-- Dependency Inversion?
+- compare Dependency Inversion and Inversion of Control
 - Where would you put logic to decide if we show local data or remote data?
 - Anemic Domain Model
 - tell, dont ask
@@ -116,4 +120,8 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - what is TDD?
 - what is BDD?
 - any questions you have to us?
+- non-functional requirements
 - how can you know that the code in PR is okay and can be merged?
+- differences between assignment and delegation and what cannot be delegated.
+### books to recommend
+Thinking in Java, Refactoring, Clean code, Grokking Algorithms, Data Structures the Fun Way, Kotlin in Action, Clean Architecture
