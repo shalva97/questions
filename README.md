@@ -7,6 +7,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - [Jetpack Compose](#Jetpack-Compose)
 - [Kotlin](#Kotlin)
 - [Kotlin coroutines](#Kotlin-coroutines)
+- [KMP](#KMP)
 - [Java](#Java)
 - [Java concurency](#Java-concurency)
 - [Testing](#testing)
@@ -27,8 +28,14 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - what are Intents in android?
 - Baseline Profiles
 - Bundle limitations
+- how Android keeps ViewModel instances?
+- how much RAM can app use
+- AOT vs JIT
+- dalvik vs art
 ### XML views
 - How would you optimise RecyclerView?
+- how XML layout gets parsed and drawn
+- GPU Overdraws
 ### Jetpack Compose
 - Modifiers, custom Modifiers
 - states, derivedstateOf
@@ -39,7 +46,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - composable lifecycle
 - rememberSaveable
 - what is state hoisting in compose?
-
+- How can we draw on Canvas
 ### Kotlin
 - what is companion object? how can it be used from Java?
 - How to call extension functions from Java?
@@ -56,14 +63,20 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - Kotlin vs Java
 - Your favourite Kotlin feature
 - Sequence vs Iterable
-- 
+- primitives in Kotlin
 ### Kotlin coroutines
 - structured concurency
 - StateFlow vs SharedFlow
-- what are Dispatachers?
+- what are Dispatachers and their differences?
 - Scopes
 - Channel vs Flow
+- how corutines know about childrens and parent
 
+### KMP
+- source sets
+- expect/actual functions
+- what is IR(intermediate representation)
+- how kotlin compiler compiles code for different targets
 ### JVM
 - can you manually trigger GC? Have you tried it?
 - what the memory leak is and some often cases when when we see them?
@@ -84,6 +97,10 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - what are dagger scopes and how to use them?
 - how garbage collector works? what are GC Roots?
 - https://www.youtube.com/watch?v=VtQFcyym550&list=PLX8CzqL3ArzX0zXLKycnQslZaF6viV0oQ
+- Java memory model
+- happens before guarantee
+- what is stack? what is kept in ti? and its limitations? what is benefits?
+- 
 ### Java concurency
 - how we can use Set in multithreading environment? Things to do If I need to work with some collection in multithreading environment?
 - what are AtomicBoolean, AtomicOtherThings?
@@ -91,6 +108,10 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - deadlock vs race condition. How to prevent them?
 - How JVM understands that another thread is doing work inside @Synchronised block?
 - What is the synchronised keyword in Java?
+- asyncronouse vs parallel vs concurency vs multithreading
+- ThreadPool and Executors
+- how costly it is to create a Thread
+- synchronization primitives
 ### RxJava
 - Flowable vs Observable
 - subscribeOn vs observeOn. Can they be used multiple times?
@@ -124,5 +145,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - non-functional requirements
 - how can you know that the code in PR is okay and can be merged?
 - differences between assignment and delegation and what cannot be delegated.
+### System design
+- TODO
 ### books to recommend
 Thinking in Java, Refactoring, Clean code, Grokking Algorithms, Data Structures the Fun Way, Kotlin in Action, Clean Architecture
