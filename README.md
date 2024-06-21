@@ -138,6 +138,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - name different design patterns
 - 4 OOP principles
 ### Soft skills
+- Introduce yourself
 - goal of sprint?
 - how many story points to take in a sprint?
 - why use story points and not time (days, weeks)?
@@ -151,5 +152,8 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - differences between assignment and delegation and what cannot be delegated.
 ### System design
 - TODO
+### Things to ask interviewers
+- what is the architecture of your project
+- time zones you work on
 ### books to recommend
 Thinking in Java, Refactoring, Clean code, Grokking Algorithms, Data Structures the Fun Way, Kotlin in Action, Clean Architecture
