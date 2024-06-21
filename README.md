@@ -36,6 +36,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - How would you optimise RecyclerView?
 - how XML layout gets parsed and drawn
 - GPU Overdraws
+- How can we draw on Canvas
 ### Jetpack Compose
 - Modifiers, custom Modifiers
 - states, derivedstateOf
@@ -77,6 +78,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - expect/actual functions
 - what is IR(intermediate representation)
 - how kotlin compiler compiles code for different targets
+- mutex
 ### JVM
 - can you manually trigger GC? Have you tried it?
 - what the memory leak is and some often cases when when we see them?
@@ -100,7 +102,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - Java memory model
 - happens before guarantee
 - what is stack? what is kept in ti? and its limitations? what is benefits?
-- 
+
 ### Java concurency
 - how we can use Set in multithreading environment? Things to do If I need to work with some collection in multithreading environment?
 - what are AtomicBoolean, AtomicOtherThings?
@@ -133,6 +135,8 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - tell, dont ask
 - law of demeteer(LoD)
 - how can you update data in a Fragment from another Fragment
+- name different design patterns
+- 4 OOP principles
 ### Soft skills
 - goal of sprint?
 - how many story points to take in a sprint?
