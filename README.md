@@ -72,13 +72,13 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - Scopes
 - Channel vs Flow
 - how corutines know about childrens and parent
-
+- mutex
 ### KMP
 - source sets
 - expect/actual functions
 - what is IR(intermediate representation)
 - how kotlin compiler compiles code for different targets
-- mutex
+- how would you share ViewModel for android and iOS
 ### JVM
 - can you manually trigger GC? Have you tried it?
 - what the memory leak is and some often cases when when we see them?
