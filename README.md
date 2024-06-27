@@ -14,7 +14,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - [Testing](#testing)
 - [Architecture](#Architecture)
 - [Soft-skills](#Soft-skills)
-- [Videos[(#videos)
+- [Videos](#videos)
 ### Android
 - what are Android components?
 - describe Activity lifecycle, config change and Fragment lifecycle
