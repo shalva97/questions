@@ -3,6 +3,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 
 # Contents
 - [Android](#Android)
+- [Security](#Security)
 - [XML views](#XML-views)
 - [Jetpack Compose](#Jetpack-Compose)
 - [Kotlin](#Kotlin)
@@ -13,6 +14,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - [Testing](#testing)
 - [Architecture](#Architecture)
 - [Soft-skills](#Soft-skills)
+- [Videos[(#videos)
 ### Android
 - what are Android components?
 - describe Activity lifecycle, config change and Fragment lifecycle
@@ -32,6 +34,10 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - how much RAM can app use
 - AOT vs JIT
 - dalvik vs art
+### Security
+- How would you secure sensitive information, for example PIN
+- comunicate securely to server
+- prevent MITM attack
 ### XML views
 - How would you optimise RecyclerView?
 - how XML layout gets parsed and drawn
@@ -157,3 +163,8 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - time zones you work on
 ### books to recommend
 Thinking in Java, Refactoring, Clean code, Grokking Algorithms, Data Structures the Fun Way, Kotlin in Action, Clean Architecture
+### Videos
+- [Android Broadcast's playlist](https://www.youtube.com/watch?v=B9zOXjtHY7Q&list=PL0SwNXKJbuNlEUhPKvf5qZIwDiZHfee-C)
+- [Oday's videos](https://www.youtube.com/watch?v=EYjX6e5HXN0&list=PLtRrDEpV3zkv3eluXOdfAezjyvPda8CRE)
+- [Anywhere club(not related to Android but still interesting)](https://www.youtube.com/watch?v=KM4J5XuXUzE&list=PLjQEUzuSWgX1w7tmP6gX3R1JiAJ1cT74l)
+- [Interview with Senior JS Developer (not related to Android but still :D)](https://www.youtube.com/watch?v=aWfYxg-Ypm4&t=0s)
