@@ -85,6 +85,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - what is IR(intermediate representation)
 - how kotlin compiler compiles code for different targets
 - how would you share ViewModel for android and iOS
+- you need to implement a functionality that requires context on Android but not on iOS. For example you need to rotate screen, so you have a function like setLandscapeMode(), what would be it's implementation?
 ### JVM
 - can you manually trigger GC? Have you tried it?
 - what the memory leak is and some often cases when when we see them?
