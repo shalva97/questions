@@ -34,10 +34,12 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - how much RAM can app use
 - AOT vs JIT
 - dalvik vs art
+- savedinstancestate vs viewmodel vs persistent storage
 ### Security
 - How would you secure sensitive information, for example PIN
 - comunicate securely to server
 - prevent MITM attack
+- explain encyrption (symetric, asymetric, public/private keys)
 ### XML views
 - How would you optimise RecyclerView?
 - how XML layout gets parsed and drawn
@@ -144,6 +146,8 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - how can you update data in a Fragment from another Fragment
 - name different design patterns
 - 4 OOP principles
+- business logic, business rules
+- your implementation of Paging3 with cache
 ### Soft skills
 - Introduce yourself
 - goal of sprint?
