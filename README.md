@@ -14,7 +14,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - [Testing](#testing)
 - [Architecture](#Architecture)
 - [Soft-skills](#Soft-skills)
-- [Videos](#videos)
+- [Other sources](#Other-sources)
 ### Android
 - what are Android components?
 - describe Activity lifecycle, config change and Fragment lifecycle
@@ -40,6 +40,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - comunicate securely to server
 - prevent MITM attack
 - explain encyrption (symetric, asymetric, public/private keys)
+- certificate pinning
 ### XML views
 - How would you optimise RecyclerView?
 - how XML layout gets parsed and drawn
@@ -56,6 +57,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - rememberSaveable
 - what is state hoisting in compose?
 - How can we draw on Canvas
+- phases of compose, and what happens in each phase
 ### Kotlin
 - what is companion object? how can it be used from Java?
 - How to call extension functions from Java?
@@ -95,6 +97,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - Explain reflection
 - what data structure have you heard of(not specific to JVM)?
 ### Java
+- shallow vs deep copy
 - what is the difference between HashMap and TreeMap?
 - whats the contract between hashcode and equals?
 - Is it enough to write one the equals method for my custom object to be used in a set?
@@ -148,6 +151,8 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - 4 OOP principles
 - business logic, business rules
 - your implementation of Paging3 with cache
+- why not use mocks over fakes
+- why clean code/arch sucks
 ### Soft skills
 - Introduce yourself
 - goal of sprint?
@@ -168,8 +173,9 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - time zones you work on
 ### books to recommend
 Thinking in Java, Refactoring, Clean code, Grokking Algorithms, Data Structures the Fun Way, Kotlin in Action, Clean Architecture
-### Videos
+### Other sources
 - [Android Broadcast's playlist](https://www.youtube.com/watch?v=B9zOXjtHY7Q&list=PL0SwNXKJbuNlEUhPKvf5qZIwDiZHfee-C)
 - [Oday's videos](https://www.youtube.com/watch?v=EYjX6e5HXN0&list=PLtRrDEpV3zkv3eluXOdfAezjyvPda8CRE)
-- [Anywhere club(not related to Android but still interesting)](https://www.youtube.com/watch?v=KM4J5XuXUzE&list=PLjQEUzuSWgX1w7tmP6gX3R1JiAJ1cT74l)
+- [Anywhere club(related to Java)](https://www.youtube.com/watch?v=KM4J5XuXUzE&list=PLjQEUzuSWgX1w7tmP6gX3R1JiAJ1cT74l)
 - [Interview with Senior JS Developer (not related to Android but still :D)](https://www.youtube.com/watch?v=aWfYxg-Ypm4&t=0s)
+- [AndroidInterview](https://www.reddit.com/r/AndroidInterviewQ/)
