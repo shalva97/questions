@@ -178,4 +178,4 @@ Thinking in Java, Refactoring, Clean code, Grokking Algorithms, Data Structures 
 - [Oday's videos](https://www.youtube.com/watch?v=EYjX6e5HXN0&list=PLtRrDEpV3zkv3eluXOdfAezjyvPda8CRE)
 - [Anywhere club(related to Java)](https://www.youtube.com/watch?v=KM4J5XuXUzE&list=PLjQEUzuSWgX1w7tmP6gX3R1JiAJ1cT74l)
 - [Interview with Senior JS Developer (not related to Android but still :D)](https://www.youtube.com/watch?v=aWfYxg-Ypm4&t=0s)
-- [AndroidInterview](https://www.reddit.com/r/AndroidInterviewQ/)
+- [AndroidInterviewQ](https://www.reddit.com/r/AndroidInterviewQ/)
