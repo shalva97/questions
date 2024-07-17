@@ -166,6 +166,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - non-functional requirements
 - how can you know that the code in PR is okay and can be merged?
 - differences between assignment and delegation and what cannot be delegated.
+- [Soft skills in Problem Solving for a QA(I think in a way it is also relevant to devs)](https://www.youtube.com/watch?v=GGiTWyIBsKQ)
 ### System design
 - TODO
 ### Things to ask interviewers
