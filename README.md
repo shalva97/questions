@@ -20,14 +20,12 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - describe Activity lifecycle, config change and Fragment lifecycle
 - Can we have fragment without view? what is it's purpose?
 - Why activity is Android component and fragment is not?
-- What is the pendingIntent?
+- What are pendingIntent and Intent?
 - How long a service will be running? describe it's Service Lifecycle. how can we stop it?
 - How to communicate between Activity and Service?
 - what is the difference between the foreground and background service? on which thread they run by default?
-- name 4 main android components
 - Is it a good idea to directly use Strings in Activity?
 - when it is safe to call Activity inside Fragment?
-- what are Intents in android?
 - Baseline Profiles
 - Bundle limitations
 - how Android keeps ViewModel instances?
