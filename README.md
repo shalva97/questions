@@ -151,6 +151,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - your implementation of Paging3 with cache
 - why not use mocks over fakes
 - why clean code/arch sucks
+- Why map? Cannot we just use the same model everywhere?
 ### Soft skills
 - Introduce yourself
 - goal of sprint?
