@@ -5,7 +5,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - [Android](#Android)
 - [Security](#Security)
 - [XML views](#XML-views)
-- [Jetpack Compose](#Jetpack-Compose)
+- [Jetpack Compost](#Jetpack-Compose)
 - [Kotlin](#Kotlin)
 - [Kotlin coroutines](#Kotlin-coroutines)
 - [KMP](#KMP)
@@ -13,7 +13,8 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - [Java concurency](#Java-concurency)
 - [Testing](#testing)
 - [Architecture](#Architecture)
-- [Soft-skills](#Soft-skills)
+- [Development methodologies](#Development-methodologies)
+- [Soft skills](#Soft-skills)
 - [Other sources](#Other-sources)
 ### Android
 - what are Android components?
@@ -152,8 +153,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - why not use mocks over fakes
 - why clean code/arch sucks
 - Why map? Cannot we just use the same model everywhere?
-### Soft skills
-- Introduce yourself
+### Development methodologies
 - goal of sprint?
 - how many story points to take in a sprint?
 - why use story points and not time (days, weeks)?
@@ -161,10 +161,13 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - why not estimate with days, weeks etc?
 - what is TDD?
 - what is BDD?
-- any questions you have to us?
 - non-functional requirements
 - how can you know that the code in PR is okay and can be merged?
 - differences between assignment and delegation and what cannot be delegated.
+- epic, story, task, spike
+### Soft skills
+- Introduce yourself
+- any questions you have to us?
 - [Soft skills in Problem Solving for a QA(I think in a way it is also relevant to devs)](https://www.youtube.com/watch?v=GGiTWyIBsKQ)
 ### System design
 - TODO
