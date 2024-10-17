@@ -153,6 +153,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - why not use mocks over fakes
 - why clean code/arch sucks
 - Why map? Cannot we just use the same model everywhere?
+- Anemic domain model
 ### Development methodologies
 - goal of sprint?
 - how many story points to take in a sprint?
