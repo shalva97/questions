@@ -52,7 +52,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - CompositionLocals
 - what are sideeffects, disposable effect
 - regular composition vs subcomposition
-- composable lifecycle
+- composable lifecycle, phase
 - rememberSaveable
 - what is state hoisting in compose?
 - How can we draw on Canvas
