@@ -155,6 +155,7 @@ This is just a list of a lot of questions. The main purpose is to go thru them, 
 - Why map? Cannot we just use the same model everywhere?
 - Anemic domain model
 - how would you design a realtime app that can handle 300 events from server
+- https://www.youtube.com/watch?v=_2BtE1P6MPE&list=PLWz5rJ2EKKc8GZWCbUm3tBXKeqIi3rcVX&index=8
 ### Development methodologies
 - goal of sprint?
 - how many story points to take in a sprint?
